@@ -14,32 +14,26 @@
         <a href="../resume/index.html">Resume</a>
         <a href="https://github.com/schloyerrisa" target="_blank">GitHub</a>
     </nav>
+
     <h1>Contact</h1>
+
     <form action="mailto:risa@schloyer.com" method="POST" enctype="text/plain">
+        <label>
+            Your Email:
+            <input type="email" name="email">
+        </label>
 
-    <label>
-        Your Email:
-        <input type="email" name="email">
-    </label>
+        <label>
+            Subject:
+            <input name="subject">
+        </label>
 
-    <br><br>
+        <label>
+            Message:
+            <textarea name="body"></textarea>
+        </label>
 
-    <label>
-        Subject:
-        <input name="subject">
-    </label>
-
-    <br><br>
-
-    <label>
-        Message:
-        <textarea name="body"></textarea>
-    </label>
-
-    <br><br>
-
-    <button>Send</button>
-
-</form>
+        <button>Send</button>
+    </form>
 </body>
 </html>
