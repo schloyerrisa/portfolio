@@ -16,11 +16,6 @@ img {
   max-width: 100%;
 }
 
-nav ul,
-nav li {
-  display: contents;
-}
-
 nav {
   display: flex;
   margin-bottom: 1rem;
