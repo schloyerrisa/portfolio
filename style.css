@@ -93,3 +93,44 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.1;
   text-wrap: balance;
 }
+
+.resume-page {
+  line-height: 1.6;
+}
+
+.resume-page h1 {
+  font-size: 300%;
+  margin-bottom: 0.25em;
+}
+
+.resume-page h2 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  padding-bottom: 0.2em;
+  border-bottom: 2px solid oklch(80% 3% 200);
+}
+
+.resume-page h3 {
+  margin-bottom: 0.2em;
+}
+
+.resume-page p {
+  margin: 0.5em 0;
+}
+
+.resume-page ul {
+  padding-left: 1.5em;
+}
+
+.resume-page li {
+  margin-bottom: 0.4em;
+}
+
+.resume-page section {
+  margin-bottom: 2em;
+}
+
+.resume-page time {
+  color: #666;
+  font-size: 0.95em;
+}
