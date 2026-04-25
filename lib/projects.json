@@ -1,61 +1,73 @@
 [
     {
-        "title": "Lorem ipsum dolor sit.",
+        "title": "Project 1: Expository Visualization",
+        "year": 2026
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, ipsam nulla, illo error quo voluptatem perspiciatis est aliquam a natus tenetur ratione ex atque mollitia consectetur, corrupti veritatis similique explicabo!"
+        "description": "Looked at avriety of visualizations and determined which best represented the main takeaway from the data that I wanted to communicate."
     },
     {
-        "title": "Reprehenderit possimus impedit eaque?",
+        "title": "Power Outage Analysis",
+        "year": 2025
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Nemo quaerat et vero rerum delectus iusto unde quis deserunt sint quos qui explicabo facere incidunt culpa at iste pariatur placeat illum eveniet dolore esse nihil, quia veritatis maxime! Totam."
+        "description": "Analyzed the causes of power outages and built a predictive model to predict durations of said power outages."
     },
     {
-        "title": "Asperiores impedit doloribus dolore?",
+        "title": "Portfolio Website Building",
+        "year": 2026
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Voluptatum, deserunt nesciunt deleniti rerum dolorem quasi fugiat autem accusantium? Officia illum ab ullam optio sed repellat dicta, dolorum minus, corrupti id cum aut odit amet! Blanditiis ducimus ad eius?"
+        "description": "Built a website to showcase my projects, resume, contact information, and github."
     },
     {
-        "title": "Mollitia quaerat velit accusamus!",
+        "title": "NBA Payroll Analysis",
+        "year": 2025
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Magni doloremque alias quisquam ea ipsum nisi consectetur ex, recusandae ab ipsa totam. Repellendus perspiciatis dolores quas id et labore excepturi, tenetur, enim consectetur repellat fugiat esse, sint inventore! Magnam?"
+        "description": "Analyzed payroll data for the NBA"
     },
     {
-        "title": "Maxime molestiae quia beatae.",
+        "title": "NFL Injury Analysis",
+        "year": 2024
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Voluptatibus ipsam doloribus, laborum doloremque eveniet corporis placeat incidunt dicta sunt obcaecati cum alias necessitatibus dolorem iusto, quibusdam ea quisquam. Suscipit impedit illum sapiente voluptas nesciunt aperiam doloremque corrupti inventore?"
+        "description": "Analyzed injury history for different players in the NFL to predict playing ability post injury"
     },
     {
-        "title": "Magni officia in nihil.",
+        "title": "CRM Creation",
+        "year": 2025
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Tenetur voluptas magnam harum autem perspiciatis, quibusdam atque aliquam sed, eligendi dicta quia ex iure maiores dolores impedit. Officiis debitis sequi odio ullam esse eum ratione laboriosam excepturi pariatur natus."
+        "description": "Built a HubSpot CRM at my internship to track clients and leads more effectively"
     },
     {
         "title": "Eius numquam consequuntur sit.",
+        "year": 2022
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
         "description": "Delectus, iusto eos, doloremque id modi harum sunt necessitatibus, velit adipisci incidunt facere. Quasi voluptates corporis beatae, eum blanditiis quisquam, libero voluptatibus illo consectetur recusandae saepe. Animi praesentium temporibus modi?"
     },
     {
         "title": "Ipsum earum hic aut.",
+        "year": 2023
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
         "description": "Tenetur optio delectus quis! Consequatur aliquam dicta beatae similique, exercitationem alias illum numquam voluptas natus ea doloribus adipisci? Quibusdam reprehenderit consectetur tenetur mollitia necessitatibus ex sapiente explicabo obcaecati omnis? Tenetur."
     },
     {
         "title": "Adipisci aliquam nobis magni!",
+        "year": 2024
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
         "description": "Deleniti aut vero libero mollitia quae aspernatur possimus nam fugit facere rerum at corrupti unde quas a tenetur commodi amet cumque doloremque, harum doloribus? Neque aspernatur deserunt delectus. Veniam, dolores?"
     },
     {
         "title": "Sequi quod quaerat placeat.",
+        "year": 2023
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
         "description": "Ducimus et pariatur possimus doloremque, officiis excepturi dicta accusantium magnam, placeat eos laborum quae aliquam perspiciatis neque a, at distinctio dolore culpa ullam vero? Ut aspernatur distinctio in id fugiat?"
     },
     {
         "title": "Voluptatibus eius quod perferendis.",
+        "year": 2024
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
         "description": "Ipsam sunt ducimus voluptatum, beatae sint assumenda odio odit, debitis deserunt nam molestias tempora magnam totam officia pariatur officiis doloremque. Dolorem voluptatibus cupiditate earum dolorum nihil. Qui esse neque veniam."
     },
     {
         "title": "Dignissimos veritatis asperiores facilis.",
+        "year": 2026
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
         "description": "Repellendus illum distinctio animi! Veniam omnis nostrum voluptas eius eligendi, sed necessitatibus rerum reiciendis quasi a obcaecati quas itaque ipsa exercitationem modi, quis, deleniti autem sunt quae! Assumenda, atque fugit."
     }
