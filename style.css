@@ -144,3 +144,27 @@ h1, h2, h3, h4, h5, h6 {
   right: 1rem;
   font-size: 80%;
 }
+
+.stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));
+  gap: 1.5rem;
+  margin-block: 1rem;
+}
+
+.stats div {
+  display: grid;
+  gap: 0.25rem;
+}
+
+.stats dt {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  color: gray;
+}
+
+.stats dd {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
