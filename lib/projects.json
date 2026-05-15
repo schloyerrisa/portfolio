@@ -36,10 +36,10 @@
         "description": "Built a HubSpot CRM at my internship to track clients and leads more effectively"
     },
     {
-        "title": "Eius numquam consequuntur sit.",
-        "year": 2022,
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Delectus, iusto eos, doloremque id modi harum sunt necessitatibus, velit adipisci incidunt facere. Quasi voluptates corporis beatae, eum blanditiis quisquam, libero voluptatibus illo consectetur recusandae saepe. Animi praesentium temporibus modi?"
+        "title": "Bikewatching",
+        "year": 2026,
+        "image": "images/bikewatching screenshot.png",
+        "description": "An interactive Mapbox and D3 visualization of bike lanes, Bluebike stations, traffic volume, and traffic flow in the Boston area."
     },
     {
         "title": "Ipsum earum hic aut.",
